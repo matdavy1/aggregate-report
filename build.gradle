@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: "com.github.spacialcircumstances.gradle-cucumber-reporting"
 
 dependencies {
-    testImplementation 'io.cucumber:cucumber-java:6.10.4'
+    testImplementation 'io.cucumber:cucumber-java:7.5.0'
     testImplementation 'io.cucumber:cucumber-junit:6.10.4'
 }
 
